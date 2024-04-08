@@ -1,6 +1,6 @@
 # OTP Generator and Authenticator
 
-![Thumbnail Image](./dist/img/thumbnail.png)
+![Thumbnail Image](./dist/img/thumbnails.png)
 
 Welcome to the OTP Generator and Authenticator project! This project aims to provide a simple and efficient way to generate and authenticate one-time passwords (OTPs). Whether you're securing user logins, transactions, or any other sensitive operation, this application can help enhance security with OTP functionality.
 
