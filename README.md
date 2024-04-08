@@ -17,7 +17,7 @@ git clone https://github.com/MarkChito/OTP-Gererator-and-Authenticator.git
 
 4. **Start XAMPP**: Open XAMPP Control Panel and start the Apache server.
 
-5. **Database Setup**: Import the provided SQL file (`database.sql`) into your MySQL database. You can do this using phpMyAdmin, which is included with XAMPP.
+5. **Database Setup**: The system will automatically generate the database and table schemas, as well as sample data. However, you must manually update the email addresses in the "email" section of the "users" table to reflect valid email addresses. You can do this using phpMyAdmin, which is included with XAMPP.
 
 6. **Access the Application**: Open your web browser and navigate to `http://localhost/OTP-Generator-and-Authenticator` to access the application.
 
