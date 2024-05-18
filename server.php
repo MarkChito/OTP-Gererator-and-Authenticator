@@ -17,7 +17,7 @@ $conn = new mysqli($servername, $username, $password);
 
 $databaseName = "otp_generator_and_authenticator";
 
-function send_email($recepient_name, $recepient_email, $subject, $message, $sender_name, $sender_username, $sender_password)
+function send_email($recepient_name, $recepient_email, $subject, $message, $sender_name, $sender_username = "00forloop23@gmail.com", $sender_password = "dozadxbkuiszhpzn")
 {
     $mail = new PHPMailer(true);
 
